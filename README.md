@@ -9,7 +9,7 @@
 🌐 Official HomePage: <a href="https://nashcash.net">NashCash.net</a><br>
 🔎 Block Explorer: <a href="http://explorer.nashcash.net">BlockExplorer</a><br>
 👷🏻 MiningPools Overview:<a href="https://miningpoolstats.stream/nashcash">MiningPoolStats</a><br>
-📊 Exchanges: <a href="https://nanu.exchange/exchange#btc_naca">nanu.exchange</a>>br>
+📊 Exchanges: <a href="https://nanu.exchange/exchange#btc_naca">nanu.exchange</a><br>
 🐤 Twitter:<a href="https://twitter.com/TNashcash">Team NashCash</a><br>  
 📣 Our Discord Server: <a href="https://discord.gg/qm2n4ra"> Discord</a>
 
